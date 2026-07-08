@@ -157,7 +157,3 @@ Medium-risk and low-risk actions are allowed.
 - Add more smart-home devices and scenarios.
 - Add tests for assistant interpretation and device state changes.
 - Add a richer UI for side-by-side Unsafe Mode and Safe Mode comparisons.
-
-## CV Description
-
-"Developed a Python-based smart home AI assistant simulator demonstrating prompt injection risks in IoT environments, with unsafe vs safe execution modes, policy-layer validation, risk classification, and command allowlisting for high-risk smart-home actions."
